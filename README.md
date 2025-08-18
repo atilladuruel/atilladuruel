@@ -21,7 +21,8 @@
 <p align="center">
   <img src="UnityLogo.png" alt="kotlin" width="60" height="60"/> 
   <img src="MacginationsLogo.png" alt="android"  width="60" height="60"/>
-  <img src="AtlassianLogo.png" alt="javascript"  width="60" height="60"/> 
+  <img src
+="AtlassianLogo.png" alt="javascript"  width="60" height="60"/> 
   <img src="FigmaLogo.png" alt="reactnative" width="60" height="60"/> 
   <img src="miro.svg" alt="git"  width="60" height="60"/> 
 </p>
@@ -37,7 +38,7 @@ img src="CLogo.png" alt="javascript"  width="60" height="60"/>
 
 <h3 align="center" >Contact Information</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/atilla-duruel-980a24aa/">
+  <a href="https://www.linkedin.com/in/atilladuruel/">
     <img src="LinkedinLogo.png" alt="Atilla Duruel"  width="60" height="60"/>
   </a>
   <a href="mailto:aduruel@outlook.com">
