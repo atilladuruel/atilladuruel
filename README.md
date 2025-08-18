@@ -32,11 +32,11 @@
 <p align="center">
   <img src="CSharpLogo.png" alt="kotlin" width="60" height="60"/> 
   <img src="CPlusPlusLogo.png" alt="android"  width="60" height="60"/>
-  <
-img src="CLogo.png" alt="javascript"  width="60" height="60"/> 
+  <img src="CLogo.png" alt="javascript"  width="60" height="60"/> 
 </p>
 
 <h3 align="center" >Contact Information</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/atilladuruel/">
     <img src="LinkedinLogo.png" alt="Atilla Duruel"  width="60" height="60"/>
