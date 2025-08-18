@@ -31,7 +31,8 @@
 <p align="center">
   <img src="CSharpLogo.png" alt="kotlin" width="60" height="60"/> 
   <img src="CPlusPlusLogo.png" alt="android"  width="60" height="60"/>
-  <img src="CLogo.png" alt="javascript"  width="60" height="60"/> 
+  <
+img src="CLogo.png" alt="javascript"  width="60" height="60"/> 
 </p>
 
 <h3 align="center" >Contact Information</h3>
@@ -39,7 +40,7 @@
   <a href="https://www.linkedin.com/in/atilla-duruel-980a24aa/">
     <img src="LinkedinLogo.png" alt="Atilla Duruel"  width="60" height="60"/>
   </a>
-  <a href="mailto:atilladuruel@cosmosgamesstudio.com">
+  <a href="mailto:aduruel@outlook.com">
     <img src="MailLogo.jpg" alt="atilladuruel@cosmosgamesstudio.com"  width="60" height="60"/>
   </a>
 </p>
